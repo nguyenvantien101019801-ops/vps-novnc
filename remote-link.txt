@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://stockholm-gratis-knitting-fingers.trycloudflare.com/vnc.html
+URL       : https://specifies-evaluated-things-wise.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-27 06:27:39
+Created   : 2026-08-27 20:07:00
 =======================================================
