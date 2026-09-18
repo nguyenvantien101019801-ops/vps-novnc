@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://gave-means-theatre-futures.trycloudflare.com/vnc.html
+URL       : https://lodge-deposits-walking-acceptable.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 09:21:12
+Created   : 2026-09-18 14:02:59
 =======================================================
