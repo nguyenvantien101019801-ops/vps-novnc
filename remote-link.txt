@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://advisor-clients-optional-map.trycloudflare.com/vnc.html
+URL       : https://intent-iii-developing-photographer.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-20 17:52:12
+Created   : 2026-09-20 22:07:02
 =======================================================
