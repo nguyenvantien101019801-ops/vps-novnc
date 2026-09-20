@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://scripts-domestic-fred-legislation.trycloudflare.com/vnc.html
+URL       : https://advisor-clients-optional-map.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-20 13:53:09
+Created   : 2026-09-20 17:52:12
 =======================================================
