@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dozens-component-pot-fitted.trycloudflare.com/vnc.html
+URL       : https://undergraduate-specific-guarantee-syndrome.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-02 23:31:32
+Created   : 2026-10-03 03:11:48
 =======================================================
