@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mardi-pickup-adrian-avoid.trycloudflare.com/vnc.html
+URL       : https://provincial-download-hon-sig.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-07 20:24:13
+Created   : 2026-10-08 03:51:59
 =======================================================
