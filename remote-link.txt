@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://screensavers-nails-riverside-generated.trycloudflare.com/vnc.html
+URL       : https://wing-nylon-beaches-argument.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 18:52:09
+Created   : 2026-10-15 22:51:36
 =======================================================
