@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wing-nylon-beaches-argument.trycloudflare.com/vnc.html
+URL       : https://rfc-blah-ozone-stage.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 22:51:36
+Created   : 2026-10-16 02:34:44
 =======================================================
