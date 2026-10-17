@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://shaved-bush-flood-deviation.trycloudflare.com/vnc.html
+URL       : https://aims-freelance-delayed-something.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-17 02:27:03
+Created   : 2026-10-17 08:59:13
 =======================================================
