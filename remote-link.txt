@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://spent-measuring-donate-thanksgiving.trycloudflare.com/vnc.html
+URL       : https://thing-project-shop-only.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 19:06:52
+Created   : 2026-10-21 22:59:47
 =======================================================
